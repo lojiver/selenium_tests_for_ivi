@@ -1,0 +1,10 @@
+__pycache__
+.pytest_cache
+
+venv/
+.vscode/
+
+geckodriver.log
+google_search_ivi.log
+
+
